@@ -54,7 +54,7 @@ http://<IP>/nagios
 
 vi  /usr/local/nagios/etc/nagios.cfg
 
-#Add line
+#Add line below thhis line cfg_file=/usr/local/nagios/etc/objects/localhost.cfg
 cfg_file=/usr/local/nagios/etc/objects/client.cfg
 
 cd /usr/local/nagios/etc/objects
