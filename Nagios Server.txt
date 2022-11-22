@@ -64,7 +64,7 @@ vi client.cfg
 #add ip address 
 # replace localhost with clientname
 
-service nagios reatart 
+service nagios restart 
 
 
 
